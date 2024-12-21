@@ -61,7 +61,7 @@ This is the **Mid-Term Project** of my **Data Analytics Bootcamp**. I worked on 
 ## 🗂️ Project Structure
 - 📁 **/data**: Contains the generated fake CRM data.
 - 📁 **/scripts**: Python scripts for data generation, cleaning, and analysis.
-- 📁 **/visualizations**: Tableau dashboards and Python-generated plots ([View Tableau Dashboard](https://public.tableau.com/app/profile/susanna.kohlhaas/viz/IronHack-Campaign-MidTerm/PipelineOverviewDealStagevs_Revenue)).
+- 📁 **/visualizations**: Tableau dashboards and Python-generated plots ([View Tableau Dashboard](https://public.tableau.com/views/IronHack-Campaign-MidTerm/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link).
 - 📄 **/Notion**: Notion board including Agile setup and notes ([View Notion Board](https://www.notion.so/Marketing-Insights-with-Fake-Data-Mid-Project-Iron-Hack-1549cda7e69880a0b6caf83db7c6a0bd?pvs=4)).
 - 📄 **README.md**: This file, documenting the project overview and workflow.
 
